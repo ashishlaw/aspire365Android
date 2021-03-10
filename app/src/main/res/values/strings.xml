@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aspire365</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+    <string name="login">LOGIN</string>
+    <string name="i_forgot_my_password"><u>I forgot my password</u></string>
+    <string name="send_link">SEND LINK</string>
+</resources>
